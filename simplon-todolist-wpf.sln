@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "simplon-todolist-wpf", "simplon-todolist-wpf.csproj", "{575666D1-AB12-487D-9834-FF0E07657DBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{575666D1-AB12-487D-9834-FF0E07657DBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{575666D1-AB12-487D-9834-FF0E07657DBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{575666D1-AB12-487D-9834-FF0E07657DBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{575666D1-AB12-487D-9834-FF0E07657DBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EB56DD4-7399-4192-8EAD-0CE1DD1CD263}
+	EndGlobalSection
+EndGlobal
